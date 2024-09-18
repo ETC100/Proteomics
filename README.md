@@ -4,4 +4,5 @@ spectrum mass
 
 1. When tested molecule mass is small: Monoisotopic, vice versa, Average mass perfered.
 2. Higher resolution MSS: Monoisotopic, vice versa, Average mass perfered. resolution = Peak2 / (Peak1 - Peak2), Peak2 is the less intense peak.  
-![image](https://github.com/ETC100/Proteomics/blob/main/img/mass.png)
+<img src="https://github.com/ETC100/Proteomics/blob/main/img/mass.png" alt="image" style="width:500px;"/>
+
